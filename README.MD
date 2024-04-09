@@ -2,8 +2,6 @@
 
 Project done by Buyantogtokh Khurelbaatar for Snap Engineering Academy.
 
-## My project:
-
 <h3 align="center">&#128009; Dragon Ball Characters Catalog Page &#128009;</h1>
 
 > [!NOTE]
