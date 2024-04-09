@@ -1,10 +1,10 @@
-# SEA Stage 2 - Data Catalog Project
+# SEA Stage 2 - Data Catalog Project &#128075;
 
 Project done by Buyantogtokh Khurelbaatar for Snap Engineering Academy.
 
 ## My project:
 
-<h3 align="center">&#128009; Dragon Ball Characters Catalog Page</h1>
+<h3 align="center">&#128009; Dragon Ball Characters Catalog Page &#128009;</h1>
 
 > [!NOTE]
 > Made on Vanilla Javascript due to assesment guidelines. 
@@ -15,5 +15,10 @@ Project done by Buyantogtokh Khurelbaatar for Snap Engineering Academy.
 
 ![snapshot](images/snap.png)
 
-## Resources
-- Data set created by me, 12 different characters from the series Dragon Ball. Each character contains 6 elements.
+## Resources & Tools
+- Data set created by me, 12 different characters from the series Dragon Ball. Each character's information is stored as an object with key-value pairs representing different attributes.
+- Google Fonts 
+- HTML, CSS, Javascript
+
+## Contact
+Buyantogtokh Khurelbaatar [LinkedIn](https://www.linkedin.com/in/khurel/) - vicekurel@gmail.com 
